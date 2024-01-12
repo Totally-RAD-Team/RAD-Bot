@@ -1,4 +1,4 @@
-# Totally RAD
+# RAD Bot
 RAD Bot is a CNC drawing machine powered by Arduino UNO and CNC Shield board and is programmed with GCode/GRBL.
 # G Commands Handbook
 ## G0: Linear Motion (Fast Straight Line)
