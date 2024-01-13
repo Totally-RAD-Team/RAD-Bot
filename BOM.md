@@ -1,34 +1,24 @@
-| Materials    | Cost |
-| -------- | ------- |
-|	8 x15 x 45mm Linear Bearing (x2)	|	|
-|	8 x 15 x 25mm Linear Bearing (x1)	|	|
-|	12v Nema 17 stepper motors (x2)	|	|
-|	GT2 Timing belt and pulleys	|	|
-|	Micro servo (x1)	|	|
-|	Elegoo Arduino Uno (x1)	|	|
-|	Nuts, bolts and screws (See list below)	|	|
-|	Stepper drivers - TMC2208 (x2)	|	|
-|	Contact switch (x2)	|	|
-|	Arduino CNC Shield (x1)	|	|
-|	30mm 5V Fan (x1)	|	|
-|	8mm Chromed Steel Rod (35cm x2 & 5.5cm x1)	|	|
-|	30cm long linear rail with block - MGN12H (x1)	|	|
-|	Electrical wire	|	|
-|	12v power supply - 2A or greater (x1)	|	|
-|	Barrel Connector - Female (x1)	|	|
-|	6mm Idler Wheel - 3mm Bore (1)	|	|
-|	Wooden panel to mount project at least 36x42cm	|	|
-|	Sharpie Pens	|	|
-|	3D Printer Filament	|	|
-
-
-|Nuts, Bolts, and Screws List|
-|---------------------------|
-|	M5 x 25mm (x2)	|
-|	M3 x 18 (x3)	|
-|	M3 x 12 (x2)	|
-|	M3 x10 (x3)	|
-|	M3 x 6 (X14)	|
-|	M3 nuts (x9)	|
-|	M5 nut (x1)	|
-|	Short wood screws(x8)	|
+|	Materials	|	TOTAL COST	|	BOM COST(Amazon Pricing)	|	BOM Better Pricing	|	Notes	|	Links	|
+|	--------------------------------------------------	|	---------------------	|	---------------------------------------	|	---------------------------------	|	--------------------------------------------------------------------------------------------------	|	--------	|
+|	Micro Servo	|	$7.99	|	$2.00	|	$0.50	|	There are 4 of these and one used in the printer. so three remaining	|	Link	|
+|	Screws	|	$13.59	|	$0.50	|	$0.50	|		|		|
+|	3M Arduino UNO USB data sync	|	$7.99	|	$7.99	|	$1.79	|		|	Link	|
+|	Servo Motor	|	$22.99	|	$5.75	|	$0.91	|	There are 4 of these and one used in the printer. so three remaining	|	Link	|
+|	Solid Wire	|	$16.94	|	$0.50	|	$0.50	|		|		|
+|	Linear Bearing	|	$14.99	|	$3.75	|	$0.70	|	There are 4 of these and one used in the printer. so three remaining	|	Link	|
+|	CNC Shield	|	$7.99	|	$7.99	|	$0.92	|		|	Link	|
+|	Stepper Motor	|	$28.99	|	$19.33	|	$10.44	|	There are 3 of these and we use 2	|	Link	|
+|	Linear Bearing Small 	|	$11.99	|	$6.00	|	$1.98	|	There are 4 of these and two used in the printer. so two remaining	|	Link	|
+|	Linear Rods Metal 	|	$12.99	|	$12.99	|	$3.56	|		|	Link	|
+|	Motor Driver	|	$18.99	|	$9.50	|	$5.00	|	There are 4, we used 2	|	Link	|
+|	Linear Rail 	|	$21.99	|	$21.99	|	$13.98	|		|	Link	|
+|	Limit Switch 	|	$6.98	|	$1.40	|	$1.20	|	There are 10 and we use 2	|	Link	|
+|	Idler Pulley -3mm bore	|	$7.99	|	$1.60	|	$0.45	|	There are 5, we use 1	|	Link	|
+|	Power Supply 	|	$7.89	|	$7.89	|	$0.70	|		|	Link	|
+|	Idler Pulley Toothed	|	$7.99	|	$4.00	|	$0.90	|		|	Link	|
+|	Fan 	|	$9.99	|	$2.50	|	$1.44	|		|	Link	|
+|	Timing Belt	|	$14.99	|	$1.00	|	$0.25	|		|	Link	|
+|	Arduino Uno 	|	$32.00	|	$32.00	|	$7.75	|		|	Link	|
+												
+												
+|	Total Cost	|		|	$148.65	|	$53.46	|				
